@@ -9,6 +9,8 @@ public class Day1 {
     public void Demo(){
         System.out.println("TestNG Test Module");
     }
-
+    public void Summation(){
+        System.out.println("GitHub");
+    }
 
 }
