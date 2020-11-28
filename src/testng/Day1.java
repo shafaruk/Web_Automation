@@ -12,5 +12,7 @@ public class Day1 {
     public void Summation(){
         System.out.println("GitHub");
     }
-
+    public void Stname(){
+        System.out.println("Nothing changes");
+    }
 }
